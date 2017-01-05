@@ -1,8 +1,9 @@
 #!/usr/bin/env python
-
+from __future__ import print_function
 from setuptools import setup, find_packages
 from distutils.extension import Extension
 from os import path
+
 
 VERSION = '1.1.2'
 
