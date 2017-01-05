@@ -1,3 +1,4 @@
+# coding=UTF-8/
 #!/usr/bin/env python3
 """
 This module implements FP-growth [1] frequent pattern mining algorithm with

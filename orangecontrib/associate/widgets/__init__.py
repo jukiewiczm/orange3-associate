@@ -1,3 +1,4 @@
+# coding=UTF-8/
 # Category metadata.
 
 # Category icon show in the menu
